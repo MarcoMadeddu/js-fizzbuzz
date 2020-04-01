@@ -1,0 +1,30 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.wrapper{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: lightblue;
+}
+
+.content{
+  margin: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border: 1px solid black;
+  padding: 10px;
+  width: 30%;
+  background-color: wheat;
+}
+
+button{
+  border: 1px solid black;
+  border-radius: 5px;
+  padding: 5px 50px;
+  margin: 10px;
+}

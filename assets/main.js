@@ -54,7 +54,6 @@ btnCreate.addEventListener("click",
           lista += "<li>" + i + "</li>";
 
         }
-
     }
     myList.innerHTML = lista;
   }
